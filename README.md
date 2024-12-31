@@ -15,7 +15,7 @@
 ## 🛠️ Languages and Tools  
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,java,python,nodejs,git,docker,postgresql,mysql,vscodium,linux&theme=dark&perline=7" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,java,python,nodejs,git,docker,postgresql,mysql,vscodium,eclipse,spring,react&theme=dark&perline=8" />
 </p>
 
 
